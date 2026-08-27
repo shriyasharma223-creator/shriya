@@ -1,1 +1,2 @@
-print("hii shriya" )
+name="shriya"
+print(len(name))
